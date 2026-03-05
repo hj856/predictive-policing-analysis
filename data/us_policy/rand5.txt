@@ -1,0 +1,26 @@
+CPD's 'Heat List' and the Dilemma of Predictive Policing
+Commentary
+
+Sep 21, 2016
+
+A police officer talking on the phone at his desk
+Photo by Katarzyna Bialasiewicz/Getty Images
+
+John Hollywood
+By John S. Hollywood
+
+This commentary was originally published by Crain's Chicago Business on September 19, 2016.
+
+Predictive policing—the use of computer models to identify either areas or people at greater risk of being involved in a serious crime—is yielding results for police. But how authorities respond to information gathered using this method is at least as important as the predictions themselves.
+
+This lesson, encountered during research by me and others for the book “Predictive Policing: The Role of Forecasting in Law Enforcement Operations” applies very much to our evaluation of the first version of Chicago's Strategic Subject List (known colloquially as the “heat list”) from late 2013 to 2014. This intervention identified people to be at high risk based on how many times they had been arrested with those who later became homicide victims or arrested with others who, in turn, were arrested with future homicide victims.
+
+There was little guidance throughout 2013–2014 on what authorities should do with those on the list other than “take action.” The SSL came up occasionally during the Chicago Police Department's top-level COMPSTAT meetings, but only occasionally. Police commanders did report making attempts to reach out to list members, but how and with what level of effort varied widely. As one reviewer put it, just handing out a list of those at higher risk probably should produce little effect, and that's exactly what we found in our evaluation.
+
+What is needed instead is a well-defined intervention based on previous programs that were successful in reducing violence. A core intervention should be customizable and should include privacy and civil rights protections. The focus should be on working with those at risk to reduce future crime and victimization, not “suppression.” It should distinguish between those who are high threats to their communities and those who are just at high risk of becoming a victim. Agencies also should make specific long-term commitments to the intervention, including devoting sufficient resources, developing training procedures and committing to evaluation and improvement over time.
+
+Importantly, the CPD reports changing the way it uses its list substantially since we reviewed it in 2014. The main change is the use of an intervention called “custom notification” with some members of the list. These are visits during which the list member and/or their families are told they are at risk of being a party to violence and why. They are informed of social services they can use if they wish to make a life change and warned that they will be targeted for increased prosecution if they engage in criminal activity.
+
+The custom notification approach is based on a line of similar programs with evidence showing they have been effective in reducing violence, though we have not evaluated this new CPD intervention. The CPD also reports major improvements to the predictive model, with those at risk now identified primarily by past criminal and victimization history, not co-arrests.
+
+The biggest issue for those agencies considering predictive policing is not the statistical model or tool used to make forecasts. Getting predictions that are somewhat reasonable in identifying where or who is at greater risk of crime is fairly easy. Instead, agencies should be most concerned about what they plan to do as a result.

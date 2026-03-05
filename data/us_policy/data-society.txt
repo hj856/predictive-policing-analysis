@@ -1,0 +1,348 @@
+Predictive Policing 
+10.27.2015 
+SARAH BRAYNE, ALEX ROSENBLAT, and DANAH BOYD 
+Introduction1 
+Predictive policing refers to the use of analytical techniques by law enforcement to make statistical 
+predictions about potential criminal activity.2 Predictive policing can involve either predicting 
+events (i.e., forecasting when and where crimes are likely to occur) or people (i.e., individuals likely 
+to be victims or perpetrators of crimes). Instead of relying on an officer’s ‘hunch’ about an area, 
+“predictive policing uses the power of ‘big data’ to isolate patterns.”3 A 2013 RAND report offers 
+a taxonomy of predictive methods, identifying four categories of predictive policing:  - - - - 
+Methods for predicting crimes  
+Methods for predicting offenders  
+Methods for predicting perpetrators’ identities  
+Methods for predicting victims4 
+This primer offers an overview of what is currently known about predictive policing and 
+highlights unanswered questions about the implications of predictive policing.  
+Context 
+Predictive policing is emblematic of a broader trend towards data-driven decision-making in a 
+wide range of fields. Within criminal justice, actuarial methods have long been an important 
+component of managing risk.5 In the 1920s, Ernest Burgess of the Chicago School of sociology 
+created the first parole prediction instrument, in which he calculated probability estimates of 
+reoffending. Although actuarial methods have existed in criminal justice for almost a century, 
+predictive analytics have only become systematically incorporated into law enforcement practices 
+over the past two decades. 6 
+Predictive Policing 
+2
+Statistically informed policing (also referred to as intelligence-led, or data-driven policing) gained 
+traction in the 1990s. Then-New York City transit police officer Jack Maple created a crime 
+mapping system that was later adopted by William Bratton, then-Chief of the New York City 
+Transit Police and later Chief of the New York City Police Department. CompStat (short for 
+computer statistics), as the approach came to be called, is now implemented as a managerial 
+practice in police departments across the world to identify crime patterns and hotspots, quantify 
+and incentivize police activity, and direct police resources. 
+The shift towards predictive policing occurred in the late 2000s. In the face of low crime rates, 
+departments were facing pressure to push crime rates even lower. Following the logic that the 
+‘low-hanging fruit had already been taken’ (i.e., the easy crimes had already been intercepted or 
+prevented), law enforcement needed a means by which to further reduce crime rates. Coupled 
+with pressure to allocate resources more efficiently in light of tight budgets, in 2008, Bratton, who 
+had moved on to become the Chief of the Los Angeles Police Department, began working with 
+federal agencies to assess the viability of a more predictive approach to policing. 
+Predictive Policing in Theory 
+Predictive policing draws from canonical theories of crime that focus on criminal events, crime
+prone locations, and criminal opportunities. The basic underlying assumption of predictive 
+policing is that crime is not randomly distributed across people or places. Rather, patterns of 
+crime are a “function of environmental factors that create vulnerabilities for victims and spaces at 
+certain times.”7 Opportunity theory, for example, suggests that offenders systematically select 
+targets that offer high reward with low effort and risk. According to routine activities theory, daily 
+activities result in the convergence of the following three elements in time and space: motivated 
+offenders (i.e., potential criminals), suitable targets (e.g., electronics in a house), and an absence of 
+capable guardians (e.g., residents working outside of the house). Another term used in policing 
+discourse is ‘soft targets’ – originally a military term to refer to unarmored or undefended targets, 
+it is now used in policing to denote unprotected individuals, objects, or places that may be easily 
+victimized for crime. 
+The root causes of crime vary. Therefore, it is important to consider the different underlying 
+assumptions informing different predictive models. For example, Another participant who had 
+been working with criminal justice organizations to increase access to data on traffic stops, found 
+that models predicting violent crime sometimes identify people, rather than places, as their 
+outcomes. 
+DATA & CIVIL RIGHTS: A NEW ERA OF POLICING AND JUSTICE 
+datacivilrights.org 
+Predictive Policing 
+3
+Predictive Policing in Practice 
+The most common form of predictive policing is location-based prediction, which takes 
+retrospective crime data and applies it prospectively to determine deployment.8 For example, 
+consider a particular block where houses are broken into frequently at night. Based on near
+repeat theory – which suggests once a crime occurs in a particular location, it is more likely to 
+happen again in that area – it is logical to infer that houses may continue to be burglarized unless 
+there is some sort of police intervention. Data demonstrates that offenders focus on familiar areas. 
+The police intervention, in this instance, could simply be deploying an officer to patrol the area to 
+prevent future break-ins. Police presence may deter individuals from committing crimes, or may 
+displace the crimes to another area (in the process of which some attrition may occur, leading to 
+reduced crime). 
+Another form of predictive policing is person-based. In such systems, law enforcement may 
+predict individuals or groups most likely to be involved in crimes, either as victims or offenders. 
+Person-based predictive policing could involve social network analysis or regression models using 
+risk factors.9 One of the civil liberties questions that arises is: what are the implications of the 
+police modeling risk for individuals who have no criminal record? For example, as the White 
+House report on Big Data documents, “In response to an epidemic of gang-related murders, the 
+city of Chicago conducted a pilot that shifts the focus of predictive policing from geographical 
+factors to identity. By drawing on police and other data and applying social network analysis, the 
+Chicago police department assembled a list of roughly 400 individuals identified by certain factors 
+as likely to be involved in violent crime. As a result, police have a heightened awareness of 
+particular individuals that might reflect factors beyond charges and convictions that are part of 
+the public record.”10 
+Once individuals are identified as high risk, police interventions could range from patrolling the 
+areas where individuals reside to more aggressive interventions – such as talking to identified 
+individuals or their family members. 
+Whether location or individual based, there are four key stages in the practice of predictive 
+policing:11 
+DATA & CIVIL RIGHTS: A NEW ERA OF POLICING AND JUSTICE 
+datacivilrights.org 
+Predictive Policing 
+4
+In the first stage, data is collected. These data can range from basic crime data (i.e., when and 
+where historical crimes occurred), to more complex environmental data such as seasonality, 
+neighborhood composition, or risk factors (e.g., vacant lots, parks, ATMs). The second stage 
+involves data analysis, which yields predictions about future crime. When deciding what 
+predictive method to use, law enforcement needs to consider both the type of crime they want to 
+target and their department’s resources. 
+The third stage in the predictive cycle is police intervention. Usually police intervention involves 
+distributing crime forecasts to commanders who use them to make decisions about where to 
+deploy officers in the field. Patrol officers are also sometimes given reports at briefings to inform 
+them where to go while on shift. During uncommitted time (i.e., when they are not responding to 
+calls for service), patrol officers focus their time and resources to surveilling the people and places 
+models suggest are likely to be involved in future crime. It is important to note that the very act of 
+predictive policing creates new data as well. For example, police describe how they ‘enter and 
+clear predictive boxes,’ and they enter their status in the computer terminal in their car to notify 
+dispatch and keep records for future analysis.12 
+The fourth stage, target response, highlights that this predictive policing cycle, or, ‘battle rhythm’ 
+as some law enforcement officials have called it, grows increasingly complex over time. Law 
+enforcement needs to account for individuals’ responses to police intervention. As mentioned 
+earlier, the intervention could serve as a deterrent, preventing crime from occurring, or could lead 
+to the displacement of crime to a different area. 
+Rhetoric 
+There is considerable hype in media and policy circles about predictive policing. TIME Magazine 
+named predictive policing as one of the 50 best inventions in 2011. With its emphasis on ‘big data’ 
+analytics, predictive policing is touted as a means to improve both efficiency and equity. 
+In terms of efficiency, advocates of predictive policing say it can more accurately predict future 
+crimes than humans can.13 One possible explanation for this is that humans overestimate 
+meaningful patterns.14 Traditional crime analysts may possess exaggerated perceptions of crime 
+patterns and consequently overreact by directing a disproportionately high amount of police 
+resources to an area. Additionally, police departments face resource constraints, so predictive 
+policing’s ability to ‘do more with less’ can be appealing from a budgetary perspective. 
+Champions of predictive policing argue it can serve as a technical solution to problems of 
+discrimination and information sharing. For example, advocates suggest it can reduce problematic 
+biases in police practices along lines of race, class, and neighborhood. Moreover, as one FBI 
+report explains, instead of relying on officer intuition, predictive policing relies on data, which can 
+DATA & CIVIL RIGHTS: A NEW ERA OF POLICING AND JUSTICE 
+datacivilrights.org 
+Predictive Policing 
+5
+“standardize information across shifts and experience levels” ultimately “eliminating the concern 
+about adequate information sharing.”15 It is important to avoid false binaries such as “intuition
+driven” versus “data-driven” policing, because in practice, neither approach exists in isolation 
+from the other; each informs the other in consequential ways. 
+Just as people are excited about predictive policing, there are anxieties that have bubbled to the 
+surface since its implementation. Fears stem from civil rights groups, researchers, the communities 
+that are being policed, and law enforcement themselves. Civil rights advocates suggest predictive 
+policing will be used to profile and harass people who have not committed any crime, and that it 
+can do so under the patina of objectivity. 
+Researchers suggest that new analytic techniques may, to a certain extent, reproduce 
+conventional police practices, but under the guise of data science. Mirroring debates occurring 
+over discriminatory lending,16 some of the variables included in predictive models may simply be 
+a proxy for race or other protected categories. 
+Individuals in law enforcement argue predictive models should not substitute experience, ‘street 
+smarts,’ and officer intuition. It is worth noting that law enforcement is not uniform in their 
+opinion of predictive policing. Rather, there are divisions, with some officers viewing it as another 
+useful tool in their toolbox, others viewing it as an entrenchment of managerial control, and 
+others still viewing it as a subversion of their experiential knowledge.17 
+Some (but not all) concerns are driven by misconceptions. The major pervasive misconception is 
+the Minority Report myth. Minority Report, a book and subsequent film that depicts a dystopian 
+world in which individuals are arrested for crimes “precogs” foresee them committing in the 
+future, is relentlessly invoked in discourse around predictive policing. This is a misleading 
+characterization of predictive policing that distracts from the important issues at hand relevant to 
+having a productive conversation about the promises and perils of predictive policing moving 
+forward. Predictive policing is not akin to a crystal ball. It does not foretell the future. Rather, 
+when used correctly, it can give police officers probabilistic information about where to go and 
+who to police. Much of the time, predictive models serve to confirm police intuitions. However, 
+they may also be able to dispel officers’ individual perceptions of crime or crime rates that may be 
+inaccurate or outdated. The implications of predictive policing techniques have much more to do 
+with the bureaucratic processes that surround the technology than the technology itself. The same 
+tools can be used to redress existing inequities or amplify them. 
+Actors 
+There are a variety of relevant actors involved in predictive policing, including local, state and 
+federal governments and agencies, predictive platform designers, vendors, researchers, and 
+consultants. 
+DATA & CIVIL RIGHTS: A NEW ERA OF POLICING AND JUSTICE 
+datacivilrights.org 
+Predictive Policing 
+6
+Most predictive policing pilot projects in local police departments are made possible by injections 
+of federal funding. For example, in 2011, the Los Angeles Police Department received a three 
+million dollar grant from the U.S. Department of Justice (DOJ) to conduct a multiyear analysis of 
+predictive policing. In 2015, the Miami Police Department received $600,000 to do the same. 
+Smaller cities tend to take up predictive tools after pilots are run in larger departments. Some of 
+the cities that are currently using predictive policing include: Chicago, IL, Memphis, TX, Los 
+Angeles, CA, Santa Cruz, CA, Minneapolis, MN, Palm Beach, FL, Dallas, TX, Vancouver 
+(British Columbia, Canada), Charlotte-Mecklenburg, NC, Nashville, TN, Glendale, AZ, East 
+Orange, NJ, Baltimore, MD, New York City, NY, Philadelphia, PA, Miami, FL, New Castle, DE, 
+Lincoln, NE, and Montevideo, MN. 
+One of the biggest predictive policing vendors is PredPol. Researchers Jeff Brantingham and 
+George Mohler, currently at the University of California Los Angeles and Santa Clara University, 
+respectively, suggested it was possible to predict certain crimes much like it was possible to 
+forecast the distribution of earthquake aftershocks. They co-founded PredPol, now headed by 
+Larry Samuels. Informed by predictive techniques used in research on counterinsurgency 
+operations, PredPol is run on a cloud-based SaaS platform and uses three types of data in its 
+proprietary algorithm – place, type, and time of crime. It includes three years of data, weighting 
+the more recent data more heavily. The algorithm generates 500 by 500 square foot predictive 
+boxes on maps, indicating areas where particular crimes are most likely to occur. PredPol is 
+currently used in almost 60 departments, the largest of which are the Los Angeles Police 
+Department and the Atlanta Police Department. 
+Another software is Hunchlab, designed by the GIS firm Azavea. Robert Cheetham, a former 
+crime analyst for Philadelphia Police Department is the President and CEO. Hunchlab’s 
+statistical models account for the interaction of social, behavioral and physical risk factors. 
+Hunchlab is currently used by the Philadelphia Police Department and the Miami Police 
+Department. In 2015, the New York City Police Department announced their plans to begin 
+testing Hunchlab software.18 
+A key contrast between PredPol and Hunchlab is their analytic strategy. Informed by near-repeat 
+theory, PredPol has a parsimonious model, only using historical crime data. Whereas Hunchlab 
+also uses near-repeats, it also uses risk-terrain modeling19 which involves a much wider range of 
+variables, such as seasonality, collective efficacy (the willingness of individuals to intervene), school 
+calendars, and environmental risk factors. An interesting conflict and break in the predictive 
+policing narrative is that advocates of PredPol preempt some of the criticism leveled at Hunchlab, 
+namely for including too many factors that could be considered discriminatory in their models. 
+Individuals at PredPol are careful to emphasize their software does not predict who commits 
+crimes, but rather focuses on what types of crimes are predicted to occur where and when. 
+DATA & CIVIL RIGHTS: A NEW ERA OF POLICING AND JUSTICE 
+datacivilrights.org 
+Predictive Policing 
+7
+So, how is predictive policing different from conventional hot spot policing? There are three main 
+differences. First, although preliminary data suggests they actually yield substantively similar 
+predictions, hot spot policing uses density maps. In other words, hot spot policing involves simply 
+plotting crimes in order to visualize a geographic distribution of crime, and subsequently 
+deploying officers to the “hottest areas.” Although the predictive boxes generated by algorithms 
+often overlay conventional hot spots, predictive boxes are much smaller than hot spots and 
+sometimes generate boxes that do not match up with conventional hot spots. A second important 
+difference is that predictive algorithms are highly opaque, a phenomenon referred to as 
+“algorithmic secrecy.”20 Simply stated, police officers understand how heat maps are generated, 
+but the algorithmic process by which predictive boxes are generated is invisible and difficult to 
+interpret. Finally, whereas hotspot policing is retrospective in its analytic approach, predictive 
+policing is prospective. Hotspot policing directly maps where crimes occurred in the past, but 
+predictive policing could predict crime will occur in a location that there has not been a crime 
+before. The exact ways in which this would happen are often shielded by the proprietary nature of 
+predictive policing algorithms. 
+Understanding the actors and agencies involved in funding and adopting predictive policing 
+efforts is helpful as we transition into the next section on open questions about the practice. 
+Knowing the institutional architecture of predictive policing is integral to knowing where the 
+points of leverage are and understanding where and how research, measurement, and assessment 
+can occur. 
+Open Civil Rights Questions 
+There are a number of open questions that are pertinent to address as predictive policing is 
+implemented. These systems have been designed based on research using existing data yet, as 
+these systems mature, new data will influence the algorithms in profound ways and policing 
+decisions will be driven by the information provided by these algorithms. This raises numerous 
+questions about efficacy and societal implications. 
+How and where does biased data shape these systems? 
+Establishing causal inference (i.e., being able to directly test whether predictive policing causes a 
+decrease in crime) is difficult. In terms of research design, assessments of predictive policing 
+usually involve longitudinal studies examining crime rates before and after predictive policing. 
+Simply because crime goes down after predictive policing is implemented does not necessarily 
+mean predictive policing caused the drop in crime. Predictive policing is not randomly distributed 
+and other forces – such as broader crime trends, selection bias in terms of which divisions are 
+most likely to adopt predictive policing (e.g., they may also be the most likely to have proactive 
+DATA & CIVIL RIGHTS: A NEW ERA OF POLICING AND JUSTICE 
+datacivilrights.org 
+Predictive Policing 
+8
+officers regardless of whether they use formal predictive methods or not) – may also explain the 
+drop in crime. - - - - 
+How do decisions by law enforcement affect the validity of the data? What can be done to 
+correct biases in the data? 
+How does the implementation of predictive policing affect the data that these techniques 
+rely on? 
+Who can meaningfully assess the algorithms that are being implemented and what kind of 
+algorithmic oversight is appropriate? 
+How does missing or biased data shape the predictions that these systems make? 
+Ongoing assessment of these systems will be critical, but is by no means guaranteed. We need to 
+ask what kinds of structures are necessary for evaluating the efficacy of predictive policing. One 
+possibility is to run randomized control trials (RCTs) across divisions. Such trials need to be 
+evaluated by researchers independent from the department, the designers of the strategy, and the 
+vendors. For example, we should not simply rely on assessments of a policing initiative by the 
+consulting firm that designed the strategy, which is currently the case in some departments. 
+How do different policing tools perform, relative to each other and relative to 
+earlier methods? 
+Although we know about comparative accuracy of crime prediction in patrol (e.g., we have data 
+on the predictive power of algorithms vs. analysts), we do not know how platforms measure up 
+against one another (e.g., Hunchlab vs. PredPol). Moreover, even less is known about the 
+application of predictive models in investigations. - - - - - - 
+Are there more cases cleared by arrest when detectives employ predictive analytics? 
+How do law enforcement officers treat the information they receive from each system? 
+Do they solve cases faster? 
+Are fewer people wrongfully ensnared in criminal justice system? 
+Do officers trust the information they provide? 
+What bureaucratic dynamics influence how officers incorporate the information they 
+receive into their policing practices? 
+DATA & CIVIL RIGHTS: A NEW ERA OF POLICING AND JUSTICE 
+datacivilrights.org 
+Predictive Policing 
+9
+It is also important to consider not only how efficacious a predictive technique is, but also how 
+transparent it is. As mentioned above, algorithms tend to be relatively inscrutable for police 
+officers, and research suggests that simple heuristics may be almost as effective as advanced 
+computational methods. For example, stop heuristics with simple scoring rules may have 
+comparable accuracy to fuller statistical models.21 Models that are easier to understand can 
+improve police buy-in and can be less expensive, making it possible for smaller departments with 
+fewer financial resources to adopt the approach. 
+How can Fourth Amendment protections be preserved in the context of these new 
+tools? 
+The way law enforcement uses predictive analytics challenges the traditional paradigm of Fourth 
+Amendment law because predictive information may be used to justify stops under the existing 
+Fourth Amendment precedent.2223 In a 2015 law review article, Ferguson asks whether a stop can 
+“be predicted on the aggregation of specific and individualized, but otherwise noncriminal, 
+factors.”24 He argues that otherwise noncriminal factors “might create a predictive composite that 
+satisfied the reasonable suspicion standard.”25 In other words, predictive analytics may effectively 
+make it easier to meet the reasonable suspicion standard in practice, thus justifying more police 
+stops. Ferguson suggests that if the police use big data to reach the threshold of reasonable 
+suspicion, the courts “should require a higher level of detail and correlation using the insights and 
+capabilities of big data.”26 - - - 
+In the context of predictive policing, should we raise the standard of reasonable suspicion? 
+Should being a high risk individual be grounds for police surveillance (with or without a 
+warrant)? 
+How will all the new forms of data being generated through predictive policing be used? 
+What will be admissible under the exclusionary rule? 
+How will predictive policing affect the overall dynamic between police and the 
+communities they serve? 
+We must also consider questions about the implications of predictive policing in terms of civil 
+rights and social inequality. - - - 
+To what extent does predictive policing create self-fulfilling statistical prophecies? 
+Does it improve or erode police-civilian relations? 
+What kind of hit rate (i.e., the percentage of stops in which an officer makes an arrest or 
+issues a summons) constitutes defensible public policy? 
+DATA & CIVIL RIGHTS: A NEW ERA OF POLICING AND JUSTICE 
+datacivilrights.org 
+ 
+Predictive Policing 
+ 10 
+ 
+ 
+DATA & CIVIL RIGHTS: A NEW ERA OF POLICING AND JUSTICE datacivilrights.org 
+ 
+ 
+ 
+ 
+ - How can we measure bias in predictive models? 
+As Barocas and Selbst argue, discrimination may be an artifact of the data collection and analysis 
+process itself. Even with the best intentions, algorithmic decision-making can lead to 
+discriminatory practices and outcomes.27 Algorithmic decision procedures can “reproduce 
+existing patterns of discrimination, inherit the prejudice of prior decision makers, or simply reflect 
+the widespread biases that persist in society. It can even have the perverse result of exacerbating 
+existing inequalities by suggesting that historically disadvantaged groups actually deserve less 
+favorable treatment.”28 Each of the steps in data analysis can create “possibilities for a final result 
+that has a disproportionately adverse impact on protected classes, whether by specifying the 
+problem to be solved in ways that affect classes differently, failing to recognize or address 
+statistical biases, reproducing past prejudice, or considering an insufficiently rich set of factors.”29 
+Simply stated, we need to ask whether predictive policing reduces police discretion (and to what 
+extent we want to reduce it in the first place), and whether it serves to exacerbate or remedy 
+existing inequalities in police practices. 
+Finally, returning to an age-old question in policing literature: to what extent is the crime rate a 
+function of enforcement practices? More generally, to what extent is what we “know” about crime 
+conditional on how we know it? We need revisit these questions in the context of predictive 
+policing, because the ‘raw’ data inputted into predictive models is in fact not ‘raw’ at all, but 
+rather fundamentally social. 
+Having answers to these types of questions will help us determine to what extent predictive 
+policing is defensible public policy, and what the best practices of predictive policing are. It is an 
+anachronism to think that the police can (or should) stop using data or predictive models. 
+Consequently, we need to design and implement models with these questions in mind. 

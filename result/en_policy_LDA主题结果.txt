@@ -1,0 +1,15 @@
+EN 政策文本LDA主题模型结果（4个主题）
+============================================================
+
+主题 1：data | policing | use | predictive | report | justice | agencies | department | agency | chief
+原始权重：0.035*"data" + 0.010*"policing" + 0.010*"use" + 0.009*"predictive" + 0.009*"report" + 0.009*"justice" + 0.007*"agencies" + 0.007*"department" + 0.007*"agency" + 0.007*"chief"
+
+主题 2：predictive | policing | crime | police | data | more | officers | risk | district | new
+原始权重：0.030*"predictive" + 0.029*"policing" + 0.024*"crime" + 0.017*"police" + 0.013*"data" + 0.008*"more" + 0.007*"officers" + 0.007*"risk" + 0.007*"district" + 0.006*"new"
+
+主题 3：covered | algorithm | deployer | developer | individual | commission | act | evaluation | use | impact
+原始权重：0.030*"covered" + 0.030*"algorithm" + 0.026*"deployer" + 0.022*"developer" + 0.013*"individual" + 0.011*"commission" + 0.011*"act" + 0.010*"evaluation" + 0.010*"use" + 0.009*"impact"
+
+主题 4：digital | enforcement | law | evidence | training | c | justice | general | subsection | criminal
+原始权重：0.021*"digital" + 0.019*"enforcement" + 0.018*"law" + 0.016*"evidence" + 0.011*"training" + 0.010*"c" + 0.010*"justice" + 0.010*"general" + 0.009*"subsection" + 0.008*"criminal"
+

@@ -1,0 +1,104 @@
+# A National Discussion on Predictive Policing: Defining Our Terms and Mapping Successful Implementation Strategies
+The author(s) shown below used Federal funds provided by the U.S. Department of Justice and prepared the following final report:
+| Document Title: | A National Discussion on Predictive Policing: Defining Our Terms and Mapping Successful Implementation Strategies |
+| --- | --- |
+| Author(s): | Craig D. Uchida |
+| Document No.: | NCJ 230404 |
+| Date Received: | May 2010 |
+
+This report has not been published by the U.S. Department of Justice. To provide better customer service, NCJRS has made this Federallyfunded final report available electronically in addition to traditional paper copies.
+Opinions or points of view expressed are those of the author(s) and do not necessarily reflect the official position or policies of the U.S. Department of Justice.
+
+National Institute of Justice
+A National Discussion on Predictive Policing: Defining Our Terms and Mapping Successful Implementation Strategies
+Craig D. Uchida, Ph.D.
+Nov. 18-20, 2009
+NCJ 230404
+Discussion Paper
+NIJ
+
+This document is a research report submitted to the U.S. Department of Justice. This report has not been published by the Department. Opinions or points of view expressed are those of the author(s) and do not necessarily reflect the official position or policies of the U.S. Department of Justice.
+
+A National Discussion on Predictive Policing: Defining Our Terms and Mapping Successful Implementation Strategies
+Craig D. Uchida, Ph.D.
+Justice & Security Strategies, Inc.
+Nov. 18‐20, 2009
+Los Angeles, Calif.
+NCJ 230404
+
+The opinions and conclusions expressed in this document are solely those of the author and do not necessarily reflect the views of the U.S. Department of Justice.
+This document is a research report submitted to the U.S. Department of Justice. This report has not been published by the Department. Opinions or points of view expressed are those of the author(s) and do not necessarily reflect the official position or policies of the U.S. Department of Justice.
+
+This summary of the First Predictive Policing Symposium provides highlights of the 2½-day event, including broad themes and future directions for this new approach.
+The symposium had six major goals:
+• Definition: Define what is meant by “predictive policing.” Is predictive policing just another label or is it a larger concept that includes many paradigms?
+• Current use in the field: Discuss where predictive policing is practiced. What can we learn from those experiences? Police around the country are using predictive policing technology, but we do not know much about it. We need to know what it is in practice and what we can learn.
+• Privacy and civil liberties: What are the implications for privacy and other civil liberties issues? The very phrase “predictive policing” raises questions in people’s minds, and many are wary.
+• Communication: How do we communicate the predictive policing approach to the community so that it will be understood and accepted? How do we assure the public that our goal is to be less intrusive, not more intrusive, and that we are operating in good faith?
+• Tools: Predictive policing relies on a variety of technological tools. How do we ensure that these tools are being used strategically? How can we leverage these tools to make the law enforcement process more effective?
+• Research and practice: Predictive policing marries science and technology to practice. Yet police personnel do not use data analysis to inform practice often enough. How do we take this to the next level? How do we integrate research, theory and practice?
+
+## Definition of Predictive Policing
+John Morgan, Ph.D., presented a working definition of predictive policing:
+“Predictive policing refers to any policing strategy or tactic that develops and uses information and advanced analysis to inform forward-thinking crime prevention.”
+
+Morgan said that definition includes the following five elements:
+• Integrating information and operations.
+• Seeing the big picture.
+• Using cutting-edge analysis and technology.
+• Linking to performance of organization.
+• Adapting to changing positions.
+
+During the symposium, speakers and participants discussed and challenged this definition and its elements.
+
+George Kelling, Ph.D., of the Manhattan Institute for Policy Research, placed predictive policing in the context of law enforcement’s movement toward a more empirical base. He provided a brief historical summary of the roots of predictive policing, mentioning a number of reports and research studies from the 1950s to the present. The core idea: in policing, process trumps outcomes. He said he is not opposed to empirical or evidence-based research, to intelligence-led policing or to the predictive model. The problem is that the U.S. criminal justice system does not have enough tools and research to support the development of evidence-based practices. Even if police departments did have sufficient tools and research to draw on, the results would address only a small portion of the problems. He said that this does not mean we should stop trying, but that we must recognize this is only a small proportion of the total business of policing. Kelling added that we should proceed with predictive policing and develop intelligence-led policing. In the meantime, however, there is a whole body of police work that will continue to be driven by anecdotes and stories that we should also be analyzing.
+
+Craig Uchida, Ph.D., said the idea of predictive policing emanated from several sources, including the use of business intelligence and business analytics. Of particular interest is the business analytics side - connecting corporate ideas and methods to policing. How do we use different data and analytic tools and bring them into policing? Uchida used a baseball analogy to explain the use of predictive analytics: The use of data and analysis in baseball has increased dramatically over the last 15 years, changing the nature of baseball strategy. Just like the police, baseball teams collect information. In baseball, teams look at bottom lines and outcomes; likewise, in predictive policing, the focus is on outcomes. Process is important, but safety, crime reduction and quality of life are important outcomes that are part of the bottom line in policing. Predictive policing emphasizes using predictive analytics to secure favorable outcomes.
+
+## Examples of Predictive Policing
+How is predictive policing currently used? Panelists and breakout session participants suggested the following uses of predictive policing:
+• Hot spots and crime mapping (Chief Theron Bowman in Arlington, Texas, and Chief Jim Bueerman in Redlands, Calif., discussed how they use spatial analysis).
+• Data mining (Colleen McCue, Ph.D., described the use of data mining in Richmond, Va., for proactive action).
+• Police deployment of manpower.
+• Statistical probability.
+• Geospatial prediction.
+• Social network analysis.
+
+Some ideas for the potential future use of predictive policing include:
+• Management of police personnel (professional development and recruitment; who is most at risk for excessive use of force?).
+• Management of police budgets (measuring the costs of overtime and other expenditures).
+• City or neighborhood planning (design of spaces, economic development, police and security resource allocation, infrastructure protection).
+• Offender monitoring.
+
+## Implications for Privacy and Civil Liberties
+One of the major goals of the symposium was to address the issues of privacy and civil liberties. Symposium participants said the term “predictive policing” raises fears that police might engage in illicit tactics - that they will overstep their bounds and potentially use information and intelligence in a way that abridges the Constitution.
+
+In addressing this issue, speakers indicated that communication and transparency are key tenets of an effective predictive policing program. Los Angeles Police Department Chief Charlie Beck said, “It is really important when we talk outside the profession that we don’t cause this to create expectations that are unreasonable. Community trust is huge as we move down this path. We need to be extremely transparent.”
+
+Former Chief Bill Bratton said, “If we get it right and continue to reduce crime, we increase trust with the community. If we reduce crime, we reduce the need for cops to force themselves on communities; we lessen the need to stop people on the street. So much of what creates tension with the community is crime; by reducing crime, we reduce tension. We reduce the image of the police doing it to the community; it becomes the community doing it with the police.”
+
+One breakout session was devoted specifically to this issue. Panelists Tom O’Reilly, Russell Porter, Joan McNamara, John Wilson and David Carter discussed how privacy is a crucial element underpinning predictive policing.
+
+Overall, the panel participants suggested police departments consider a number of issues before implementing predictive policing:
+• The need for a clearly defined mission in order to understand what information should be collected. Supervisors must be diligent in overseeing the information-gathering process and determining what information should be retained in databases.
+• The need to distinguish intelligence from information, which determines what is and is not protected under privacy laws.
+• The need to develop policies about what information can be shared with other agencies.
+• The need to ensure that departments are not too casual about the kind of information they publish, especially if it involves names of individuals or comes from other organizations without proper vetting.
+• The need to understand that protected expressive behavior, even when it is vile, is not a crime and that information about people engaging in such behavior does not belong in criminal records.
+
+## Research and Practice
+In March 2009, NIJ released a request for proposals for law enforcement agencies to take part in a predictive policing demonstration initiative. The goal of the initiative is to develop, test and evaluate predictive policing in a real-world, real-time context. Acting NIJ Director Kristina Rose announced the grantees: police departments in the cities of Boston, Chicago, Los Angeles, New York, Shreveport, La., and Washington, D.C., and the Maryland State Police. NIJ also funded a team from the RAND Corporation to evaluate the demonstration projects so that “we have a good sense of what works, what doesn’t and what is promising, and can share that evidence with the field,” Rose said.
+
+## Predictive Policing: Challenges
+Proponents face a number of challenges to the acceptance of the tenets of predictive policing from researchers, police and policymakers. During the symposium, many questions arose. Within the breakout sessions, for example, symposium participants discussed problems with the definition of predictive policing presented by John Morgan. Participants suggested clarification on a number of points: How is predictive policing different from other paradigms, including community policing, problem-oriented policing, evidence-based policing and intelligence-led policing? How is predictive analysis different from what is already occurring in crime analyst units? What are the outcomes for predictive policing?
+
+The problem of valid and reliable measures and data was also discussed. Are data available for prediction? Are data elements integrated into a useable system? Are the available data and information too much for officers to absorb and analyze? Are we simply data dredging? Beyond calls for service, arrests and incident reports, what other data are useful in prediction? Some suggestions included the use of census data; foreclosure information; and public health, city and planning data.
+
+With data and data analysis, there is a clear need to apply appropriate criminological and crime prevention theories - how do we ensure that criminological theory guides and drives the use of data? Collective efficacy, social disorganization and situational crime prevention were among the promising theories suggested for use in prediction.
+
+Another issue, particularly within the context of shrinking budgets and financial difficulties, is the availability of appropriate resources. Do we have the right people in the right place at the right time? Police executives mentioned the need for civilian analysts and researchers, as well as technology, higher level training and funds. Other executives said that predictive policing is the wave of the future, as it allows for more efficiency and enables chiefs to do more with less.
+
+## The Future of Predictive Policing
+The symposium began a national dialogue about predictive policing and opened the door for lively debate and discussion. Clearly, there is interest in this movement.
+
+In the next six months, NIJ will engage in follow-up activities with the seven grantees involved in planning grants: a concept mapping exercise, a meeting of representatives of the grantee sites to discuss specific plans (January or February 2010) and involvement in the annual NIJ conference in June.

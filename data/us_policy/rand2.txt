@@ -1,0 +1,65 @@
+Key findings:
+Predictive policing is the application of analytical techniques to identify promising targets for police intervention, with the goal of reducing crime risk or solving past crimes.
+Predictive policing techniques can be used to identify places and times with the highest risk of crime, people at risk of being offenders or victims, and people who most likely committed a past crime.
+To be effective, predictive policing must include interventions based on analytical findings. Successful interventions typically have top-level support, sufficient resources, automated systems to provide needed information, and assigned personnel with both the freedom to resolve crime problems and accountability for doing so.
+Many agencies may find simple heuristics sufficient for their predictive policing needs, though larger agencies that collect large amounts of data may benefit from more complex models.
+Predictive policing — the application of analytical techniques, particularly quantitative techniques, to identify promising targets for police intervention and prevent or solve crime — can offer several advantages to law enforcement agencies. Policing that is smarter, more effective, and more proactive is clearly preferable to simply reacting to criminal acts. Predictive methods also allow police to make better use of limited resources.
+
+To increase understanding of how predictive policing methods can be used, RAND researchers, with sponsorship from the National Institute of Justice, reviewed the literature on predictive policing tools, compiled case studies of departments that have used techniques that appear promising, and developed a taxonomy of approaches to predictive policing.
+
+Predictive Policing Taxonomy
+The researchers found four broad categories of predictive policing methods, with approaches varying in the amount and complexity of the data involved:
+
+Methods for predicting crimes: These are approaches used to forecast places and times with an increased risk of crime.
+Methods for predicting offenders: These approaches identify individuals at risk of offending in the future.
+Methods for predicting perpetrators' identities: These techniques are used to create profiles that accurately match likely offenders with specific past crimes.
+Methods for predicting victims of crime: Similar to those methods that focus on offenders, crime locations, and times of heightened risk, these approaches are used to identify groups or, in some cases, individuals who are likely to become victims of crime.
+The table summarizes each category and shows the range of approaches that law enforcement agencies have employed to predict crimes, offenders, perpetrators' identities, and victims. The researchers found a near one-to-one correspondence between conventional crime analysis and investigative methods and the more recent "predictive analytics" methods that mathematically extend or automate the earlier methods.
+
+Problem	Conventional Crime Analysis	Predictive Analytics
+Predicting crimes
+Identify areas at increased risk
+Using historical crime data	Crime mapping (hot spot identification)	Advanced hot spot identification models, risk terrain analysis
+Using a range of additional data (e.g., 911 call records, economics)	Basic regression models created in a spreadsheet program	Regression, classification, and clustering models
+Accounting for increased risk from a recent crime	Assumption of increased risk in areas immediately surrounding a recent crime	Near-repeat modeling
+Determine when areas will be at most risk of crime	Graphing/mapping frequency of crimes in a given area by time/date (or specific events)	Spatiotemporal analysis methods
+Identify geographic features that increase the risk of crime	Finding locations with the greatest frequency of crime incidents and drawing inferences	Risk-terrain analysis
+Predicting offenders
+Find a high risk of a violent outbreak between criminal groups	Manual review of incoming gang/criminal intelligence reports	Near-repeat modeling on recent intergroup violence
+Identify individuals who may become offenders	Clinical instruments that summarize known risk factors for various types of offenders	Regression and classification models using the risk factors
+Predicting perpetrator identities
+Identify suspects using a victim's criminal history or other partial data	Manually reviewing criminal intelligence reports and drawing inferences	Computer-assisted queries and analysis of intelligence and other databases
+Determine which crimes are part of a series (most likely committed by the same perpetrator)	Crime linking (use a table to compare attributes of crimes known to be in a series with other crimes)	Statistical modeling to perform crime linking
+Find a perpetrator's most likely anchor point	Locating areas both near and between crimes in a series	Geographic profiling tools to statistically infer the most likely anchor points
+Find suspects using sensor information around a crime scene (GPS tracking, license plate reader)	Manual requests and review of sensor data	Computer-assisted queries and analyses of sensor databases
+Predicting crime victims
+Identify groups likely to be victims of various types of crime (vulnerable populations)	Crime mapping (identifying hot spots for different types of crimes)	Advanced hot spot identification models; risk terrain analysis
+Identify people directly affected by at-risk locations	Manually graphing or mapping most frequent crime sites and identifying people most likely to be at these locations	Advanced crime-mapping tools to generate crime locations and identify workers, residents, and others who frequent these locations
+Identify people at risk for victimization (e.g., people engaged in high-risk criminal behavior)	Review of criminal records of individuals known to be engaged in repeated criminal activity	Multi-database queries to identify those at risk; regression and classification models to assess individuals' risk
+Identify people at risk of domestic violence	Manual review of domestic disturbance incidents to identify those at most risk	Computer-assisted queries of multiple databases to identify domestic and other disturbances involving local residents
+Predictive Policing Process
+Making "predictions" is only half of prediction-led policing. The other half is carrying out interventions based on the predictions to reduce criminal activity or solve crimes.
+
+At the core of the process is a four-step cycle, as shown in the figure. The first two steps involve collecting and analyzing data on crimes, incidents, and offenders to produce predictions. The third step is conducting police operations to intervene on the basis of the predictions. Such interventions, as shown at the bottom of the figure, may be generic (i.e., an increase in resources), crime-specific, or problem-specific. Ideally, these interventions will reduce criminal activity or lead police to solve crimes, the fourth step. Law enforcement agencies should assess the immediate effects of the intervention to ensure that there are no immediately visible problems. Agencies should also track longer-term changes by examining collected data, performing additional analysis, and modifying operations as needed.
+
+Flow diagram showing movement between data collection, analysis, police operations, and criminal response
+Predictive Policing Myths and Pitfalls
+While predictive policing has much promise and has received much attention, there are myths to be aware of and pitfalls to avoid when adopting these approaches. Many of the myths stem from unrealistic expectations: Predictive policing has been so hyped that the reality cannot match the hyperbole. There are four common myths when it comes to predictive policing:
+
+The computer actually knows the future. Although much news coverage promotes the meme that predictive policing is a "crystal ball," the resulting algorithms predict the risk of future events, not actual events. Computers can dramatically simplify the search for patterns, but their predictions will be only as good as the data used to make them.
+The computer will do everything for you. On the contrary, even with the most complete software suites, humans must find the relevant data, process these data for analysis, design and conduct analyses in response to ever-changing crime characteristics, review and interpret analysis findings (and exclude erroneous findings), recommend interventions, and take action to exploit the findings and assess the impact of interventions.
+You need a high-powered (and expensive) model. In fact, most departments do not need the most sophisticated software packages or computers to launch a predictive policing program. In several of the case studies, simple heuristics were nearly as good as analytic software in performing some tasks for predictive policing. While complex models can offer increased predictive power, there may be diminishing returns.
+Predictions automatically lead to major crime reductions. Predictions are just that. Actual decreases in crime require taking action based on predictions. Predictive policing is part of an end-to-end process.
+To ensure that predictive policing realizes its potential, law enforcement agencies need to avoid some common pitfalls:
+
+Focusing on accuracy instead of utility. It may be accurate to characterize an entire city as a crime hot spot, but such a large area is not "actionable" when it comes to planning police interventions with limited resources. To identify hot spots that are small enough for police to realistically take action, analysts must accept some limits on accuracy as measured by the proportion of overall crime captured by the data.
+Relying on poor-quality data. Three typical deficiencies in data quality are data censoring, or omitting data on incidents of interest in particular places or at particular times; systematic bias, which may result from how data are collected; and irrelevant data, or data that are not useful for the specific problem being addressed.
+Misunderstanding the factors behind the prediction. When applying techniques like regression or data mining, analysts should use common sense in selecting factors for analysis to avoid acting on spurious relationships.
+Underemphasizing assessment and evaluation. During interviews with practitioners, RAND researchers found that very few respondents had evaluated the effectiveness of their departments' predictions. Measuring effectiveness is key to identifying areas for improvement and allocating resources efficiently.
+Overlooking civil and privacy rights. Designating certain areas or individuals as meriting law enforcement action raises civil and privacy rights concerns. The U.S. Supreme Court has ruled that standards for reasonable suspicion are relaxed in "high-crime areas," but what constitutes such an area and what measures may be taken are open questions.
+Conclusions
+For law enforcement agencies that are considering adopting predictive policing tools, the key value is in situational awareness. Small agencies with relatively few crimes and reasonably understandable crime patterns may need only relatively simple capabilities, such as those provided by basic spreadsheet or statistical programs. Larger agencies with higher data demands may need more sophisticated systems that are interoperable with existing systems and those in other jurisdictions.
+
+For the developer, the researchers suggest that vendors describe their systems as identifying crime risks, not foretelling them. Developers must also be aware of the financial limitations that law enforcement agencies face in procuring and maintaining new systems. Vendors should consider business models that make predictive systems more affordable for smaller agencies, such as regional cost sharing.
+
+For the crime fighter, the researchers emphasize that predictive policing must complement actions taken to interdict crimes. Successful interventions typically have top-level support, sufficient resources, automated systems providing needed information, and assigned personnel with both the freedom to resolve crime problems and accountability for doing so. Designing intervention programs with such attributes, combined with solid predictive analytics, can go a long way toward ensuring that predicted crime risks do not become real crimes.

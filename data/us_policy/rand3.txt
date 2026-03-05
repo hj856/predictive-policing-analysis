@@ -1,0 +1,23 @@
+pitfalls of predictive policing
+consider it the real-life “Minority Report”: Chicago police say they're successfully using big data to predict who will get shot — and who will do the shooting. But life is more complicated than the movies. The statistics that police tout to say the program works mask the fact that society is a long way from being able to prevent crime, even if police have a strong idea of who might be involved.
+
+Chicago police assert that three out of four shooting victims in 2016 were on the department's secret “heat list” of more than 1,000 people. And 80 percent of those arrested in connection to shootings were on the list, they say, but there has been no independent verification. Yet if that were the case, why is 2016 on track to be the most violent year in Chicago's recorded history?
+
+This question was put to test in a recent RAND Corporation study of the Chicago program, and the results are not encouraging.
+
+No algorithm is likely to ever predict with absolute certainty the who-when-where of a crime. But researchers have made great progress at identifying who is at heightened risk for both criminal perpetration and victimization. By calculating how often a person has been arrested with someone who later became a homicide victim, Illinois Institute of Technology researchers have identified a small group of people who are up to 500 times more likely to be the victim of a gun-related homicide than the average Chicago resident.
+
+Less is known about how to reduce gun violence for such a high-risk population. A 2009 study on gun violence in Chicago found that a popular intervention that brings offenders to “notification forums,” which relay the enhanced punishment they will receive if they commit a crime, can reduce reincarceration by as much as 30 percent. (While reducing reincarceration and preventing homicide are two different things, this strategy is the closest to what Chicago is proposing to do with their list. They propose to have the police deliver customized letters to offenders containing their criminal history and the punishments they will receive if they reoffend, along with contact information for social services.)
+
+Given those developments, it was exciting to have the opportunity to independently evaluate Chicago Police's predictive policing program. To make a long story short: It didn't work.
+
+The Chicago Police identified 426 people as being at the highest risk for gun violence, with the intention of providing them with prevention services. In a city of over 2.7 million, that's a manageable number of people to focus on. However, the Chicago Police failed to provide any services or programming. Instead they increased surveillance and arrests — moves that did not result in any perceptible change in gun violence during the first year of the program, according to the RAND study.
+
+The names of only three of the 405 homicide victims murdered between March 2013 and March 2014 were on the Chicago police's list, while 99 percent of the homicide victims were not. So even if the police knew how to prevent these murders, only three people would have been saved — and the other 402 would not have been. In a recent news release, Chicago police dismissed the conclusions (PDF) of RAND's findings by saying the department has more than doubled the predictive accuracy of its list and is going to start providing better intervention programming. Even if those improvements are real, the drop in crime will be almost imperceptible.
+
+Here's why: Consider the number of homicides that would be prevented if the list's accuracy has doubled over the 2013 pilot and the police actually deliver an intervention program that is 30 percent effective. That would prevent fewer than two murders per year, a drop of less than 1 percent in the city's overall homicide rate.
+
+To achieve even a 5 percent drop in the city's homicide rate, enormous leaps in both prediction and intervention effectiveness are necessary. In fact, the list would have to be 10 times more accurate than it was in the 2013 pilot — and prevention efforts would need to be five times more effective than current estimates. And after all that improvement — here's how many lives would be saved: 21. In a city that reported 468 murders last year, that would be tremendous progress but hardly the definitive solution.
+
+For significant drops in citywide homicide rates, monumental — not incremental — improvements in predictive policing are needed. Preventing even one killing is laudable. But neither the police nor the public should expect predictive policing alone to have a major impact on overall homicide rates anytime soon.
+

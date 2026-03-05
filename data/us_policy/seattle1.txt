@@ -1,0 +1,19 @@
+SPD Rolling Out Crime Forecasting Program Citywide
+by Jonah Spangenthal-Lee on May 17, 2013 2:07 pm
+This Sunday, as Seattle police officers start their shifts and file into roll calls at precincts around the city, they’ll be greeted with a map of their precincts. Each map will be speckled with red boxes, forecasting areas where officers might be more likely to catch a burglar breaking into a home, or a prowler rifling through someone’s car.
+
+Those red boxes are the result of a new SPD effort to take a more data-driven, Moneyball approach to policing using a new piece of software called PredPol.
+
+Screen Shot 2013-05-17 at 2.06.07 PM
+
+“PredPol looks at crime patterns and helps SPD put officers in the right place at the right time to prevent crime,” says Sgt. Christi Robbin, who oversees the Predictive Policing program as part of the department’s 20/20 Initiative.  “The forecasts are location and time based. We’re not targeting people. This is about predictive policing and the crime itself.”
+
+Now, officers at each of SPD’s five precincts will begin receiving those forecasts at the beginning of each shift and will spend spend at least two hours of their shifts patrolling those forecasted areas, in addition to responding to their regular workload of 911 calls.
+
+While officers typically know the busy spots in their patrol beats, the Predictive Policing system is another tool to help officers keep better track and share information across different shifts about where crime is happening.
+
+“As an officer, I may know a particular spot in a neighborhood has had some burglaries, but I might not intuitively know they’re regularly happening at 6pm on a Tuesday,” Sgt. Robbin says. “PredPol doesn’t replace intuition. It enhances intuition.”
+
+Currently, the department has only tasked the Predictive Policing system—also used by police in other cities like Los Angeles and Tacoma—to forecast potential areas where property crimes like burglary, car prowling and theft might occur, but the program could be expanded to project forecasts for violent crimes as well.
+
+While this new Predictive Policing program should be a helpful tool in SPD’s crimefighting efforts, the system is only as good as the numbers it has to crunch. That means it’s more important than ever for Seattle residents call 911 to report crimes or suspicious behavior in their neighborhoods. “The more 911 call data we have, the more accurate the program will be,” Sgt. Robbin says.
