@@ -17,7 +17,7 @@ Python 3.8+
 
 ## 运行方法
 1. 安装依赖：pip install jieba wordcloud pandas matplotlib networkx
-2. 运行脚本：python scripts/policy_analysis.py
+2. 运行脚本：python policy_analysis.py
 
 ## 分析结论
 - 中国政策核心：公安、警务、数据，侧重服务与治理
